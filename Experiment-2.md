@@ -1,7 +1,9 @@
 # Question
-1. View the gedit man page.
-2. Use the man -k ext4 command to find the command to tune ext4 file-system parameters.
-3. Explain brace expansion and how it is used to generate discretionary strings of characters.
+View the gedit man page.
+Use the man -k ext4 command to find the command to tune ext4 file-system parameters. 
+Brace expansion is used to generate discretionary strings of characters.
+Braces contain a comma-separated list of strings,
+or a sequence expression. The result includes the text that precedes or follows the brace definition.
 
 # Approach
 1. To view the gedit man page, we use the man command followed by the program name.
