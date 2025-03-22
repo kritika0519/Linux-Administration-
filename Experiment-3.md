@@ -49,7 +49,7 @@ vim "$lab_file"
 
 ---
 
-### 3. Finall Output
+### 3. Final Output
 
 ![WhatsApp Image 2025-03-22 at 10 56 06_2b8fdf31](https://github.com/user-attachments/assets/3fcea2b0-079a-4a07-89eb-dda9096774eb)
 
